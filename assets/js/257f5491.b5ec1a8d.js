@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxkyii_com=self.webpackChunkxkyii_com||[]).push([[1316],{8765:function(e){e.exports=JSON.parse('{"name":"VuePress","permalink":"/docs/tags/vue-press","docs":[{"id":"Cheat/Web/vuepress","title":"VuePress\u5907\u5fd8","description":"\u5e38\u7528\u8d44\u6599","permalink":"/docs/Cheat/Web/vuepress"}],"allTagsPath":"/docs/tags"}')}}]);

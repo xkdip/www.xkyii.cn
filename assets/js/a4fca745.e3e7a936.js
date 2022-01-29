@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxkyii_com=self.webpackChunkxkyii_com||[]).push([[9078],{6491:function(e){e.exports=JSON.parse('{"name":"VitePress","permalink":"/docs/tags/vite-press","docs":[{"id":"Cheat/Web/vitepress","title":"VitePress\u5907\u5fd8","description":"\u5e38\u7528\u8d44\u6599","permalink":"/docs/Cheat/Web/vitepress"}],"allTagsPath":"/docs/tags"}')}}]);

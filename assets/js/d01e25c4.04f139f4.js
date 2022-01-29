@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxkyii_com=self.webpackChunkxkyii_com||[]).push([[649],{750:function(t){t.exports=JSON.parse('{"name":"Python","permalink":"/docs/tags/python","docs":[{"id":"Cheat/Python/python3","title":"Python3\u5907\u5fd8","description":"\u4eba\u751f\u82e6\u77ed.","permalink":"/docs/Cheat/Python/python3"}],"allTagsPath":"/docs/tags"}')}}]);

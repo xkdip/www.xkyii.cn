@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxkyii_com=self.webpackChunkxkyii_com||[]).push([[4121],{8070:function(e){e.exports=JSON.parse('[{"name":"Python","permalink":"/docs/tags/python","count":1},{"name":"Vue","permalink":"/docs/tags/vue","count":3},{"name":"VitePress","permalink":"/docs/tags/vite-press","count":1},{"name":"VuePress","permalink":"/docs/tags/vue-press","count":1}]')}}]);
